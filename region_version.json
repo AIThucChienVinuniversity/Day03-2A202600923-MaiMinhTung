@@ -1,0 +1,307 @@
+{
+  "url": "https://moveek.com/phim/ba-tron/",
+  "regions": [
+    {
+      "value": "1",
+      "text": "Tp. Hồ Chí Minh",
+      "selected": true
+    },
+    {
+      "value": "9",
+      "text": "Hà Nội",
+      "selected": false
+    },
+    {
+      "value": "7",
+      "text": "Đà Nẵng",
+      "selected": false
+    },
+    {
+      "value": "3",
+      "text": "Đồng Nai",
+      "selected": false
+    },
+    {
+      "value": "6",
+      "text": "Cần Thơ",
+      "selected": false
+    },
+    {
+      "value": "4",
+      "text": "Bình Dương",
+      "selected": false
+    },
+    {
+      "value": "53",
+      "text": "Bình Phước",
+      "selected": false
+    },
+    {
+      "value": "13",
+      "text": "Bình Thuận",
+      "selected": false
+    },
+    {
+      "value": "15",
+      "text": "Bà Rịa - Vũng Tàu",
+      "selected": false
+    },
+    {
+      "value": "18",
+      "text": "An Giang",
+      "selected": false
+    },
+    {
+      "value": "19",
+      "text": "Bến Tre",
+      "selected": false
+    },
+    {
+      "value": "10",
+      "text": "Hải Phòng",
+      "selected": false
+    },
+    {
+      "value": "24",
+      "text": "Kiên Giang",
+      "selected": false
+    },
+    {
+      "value": "29",
+      "text": "Hải Dương",
+      "selected": false
+    },
+    {
+      "value": "27",
+      "text": "Trà Vinh",
+      "selected": false
+    },
+    {
+      "value": "8",
+      "text": "Quảng Ninh",
+      "selected": false
+    },
+    {
+      "value": "28",
+      "text": "Vĩnh Long",
+      "selected": false
+    },
+    {
+      "value": "2",
+      "text": "Bắc Giang",
+      "selected": false
+    },
+    {
+      "value": "16",
+      "text": "Ninh Bình",
+      "selected": false
+    },
+    {
+      "value": "30",
+      "text": "Cà Mau",
+      "selected": false
+    },
+    {
+      "value": "58",
+      "text": "Lào Cai",
+      "selected": false
+    },
+    {
+      "value": "17",
+      "text": "Phú Thọ",
+      "selected": false
+    },
+    {
+      "value": "35",
+      "text": "Hậu Giang",
+      "selected": false
+    },
+    {
+      "value": "20",
+      "text": "Thái Bình",
+      "selected": false
+    },
+    {
+      "value": "36",
+      "text": "Tây Ninh",
+      "selected": false
+    },
+    {
+      "value": "12",
+      "text": "Khánh Hòa",
+      "selected": false
+    },
+    {
+      "value": "11",
+      "text": "Thừa Thiên - Huế",
+      "selected": false
+    },
+    {
+      "value": "55",
+      "text": "Đồng Tháp",
+      "selected": false
+    },
+    {
+      "value": "22",
+      "text": "Thái Nguyên",
+      "selected": false
+    },
+    {
+      "value": "39",
+      "text": "Bạc Liêu",
+      "selected": false
+    },
+    {
+      "value": "25",
+      "text": "Thanh Hóa",
+      "selected": false
+    },
+    {
+      "value": "14",
+      "text": "Bình Định",
+      "selected": false
+    },
+    {
+      "value": "56",
+      "text": "Hưng Yên",
+      "selected": false
+    },
+    {
+      "value": "40",
+      "text": "Sóc Trăng",
+      "selected": false
+    },
+    {
+      "value": "31",
+      "text": "Hà Tĩnh",
+      "selected": false
+    },
+    {
+      "value": "26",
+      "text": "Yên Bái",
+      "selected": false
+    },
+    {
+      "value": "5",
+      "text": "Đắk Lắk",
+      "selected": false
+    },
+    {
+      "value": "45",
+      "text": "Long An",
+      "selected": false
+    },
+    {
+      "value": "21",
+      "text": "Nghệ An",
+      "selected": false
+    },
+    {
+      "value": "49",
+      "text": "Tiền Giang",
+      "selected": false
+    },
+    {
+      "value": "33",
+      "text": "Bắc Ninh",
+      "selected": false
+    },
+    {
+      "value": "57",
+      "text": "Hòa Bình",
+      "selected": false
+    },
+    {
+      "value": "34",
+      "text": "Tuyên Quang",
+      "selected": false
+    },
+    {
+      "value": "23",
+      "text": "Lâm Đồng",
+      "selected": false
+    },
+    {
+      "value": "38",
+      "text": "Nam Định",
+      "selected": false
+    },
+    {
+      "value": "41",
+      "text": "Quảng Bình",
+      "selected": false
+    },
+    {
+      "value": "46",
+      "text": "Sơn La",
+      "selected": false
+    },
+    {
+      "value": "37",
+      "text": "Phú Yên",
+      "selected": false
+    },
+    {
+      "value": "50",
+      "text": "Quảng Trị",
+      "selected": false
+    },
+    {
+      "value": "42",
+      "text": "Quảng Nam",
+      "selected": false
+    },
+    {
+      "value": "47",
+      "text": "Lạng Sơn",
+      "selected": false
+    },
+    {
+      "value": "51",
+      "text": "Quảng Ngãi",
+      "selected": false
+    },
+    {
+      "value": "48",
+      "text": "Hà Nam",
+      "selected": false
+    },
+    {
+      "value": "43",
+      "text": "Ninh Thuận",
+      "selected": false
+    },
+    {
+      "value": "54",
+      "text": "Vĩnh Phúc",
+      "selected": false
+    },
+    {
+      "value": "44",
+      "text": "Gia Lai",
+      "selected": false
+    },
+    {
+      "value": "52",
+      "text": "Kon Tum",
+      "selected": false
+    }
+  ],
+  "versions": [
+    {
+      "value": "",
+      "text": "Định dạng",
+      "selected": true
+    },
+    {
+      "value": "2d",
+      "text": "2D",
+      "selected": false
+    },
+    {
+      "value": "3d",
+      "text": "3D",
+      "selected": false
+    }
+  ]
+}
